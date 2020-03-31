@@ -1,14 +1,55 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+
+            {
+                "jobID": 1,
+                "title": "Quality Assurance Analyst",
+                "salary": "NULL",
+                "description": "Millennium Systems International is an exciting and dynamic software company based in Parsippany, New Jersey. The company has built a reputation for producing high quality, award winning applications for the Beauty & Clinic Industries since 1987. It’s commitment to delivering excellent customer service has contributed to its ongoing success. We are in search of a Quality Assurance Analyst whom will help supplement the growth & scaling of the company. We are looking for a highly motivated, results driven technology individual, who has strong technical skills. Looking for creative and talented Computer Science graduate with 1-2 years’ experience. Able to perform software testing including designing and execution of test cases. Perform software feature analysis, test cases analysis, user stories analysis, software review and defect tracking system.",
+                "location": "Parsippany, NJ",
+                "yearsexp": "1-2",
+                "skills": "SQL, Database, API, web/mobile apps, organized, coding languages"
+            },
+            {
+                "jobID": 2,
+                "title": "Jr. Big Data Engineer",
+                "salary": "Based on experience",
+                "description": "You will be joining our growing team of analytics experts. We want individuals who are comfortable asking “why”. The ideal candidate is a data pipeline builder and data wrangler who enjoys optimizing data systems and building them from the ground up. The right candidate will be excited by the prospect of optimizing or even re-designing a company’s data architecture to support next generation and data initiatives. They must be self-directed and comfortable supporting the data needs of multiple teams, systems and products. They are a team player possessing strong analytical as well as technical skills and are able to communicate the logic behind technical decisions to non-tech stakeholders.",
+                "location": "Jersey City, NJ",
+                "yearsexp": "0-3",
+                "skills": "SQL, Relational databases, Management, Interpersonal skills, Big data, Data structures, metadata, workload management"
+            },
+            {
+                "jobID": 3,
+                "title": "Human Resources Generalist",
+                "salary": "null",
+                "description": "In this role you will be a human resource professional at the organization and part of a team of ten. You will be responsible for compensation strategy, employee benefits administration and talent development and engagement, employee communications, performance management culture and wellness programs, employee relations",
+                "location": "Union NJ",
+                "yearsexp": "0-5",
+                "skills": "Verbal skills, communication skills, conflict resolution, problem-solving, Microsoft office suit, HRIS, talent management systems"
+            },
+            {
+                "jobID": 4,
+                "title": "Pediatric Medical Doctor",
+                "salary": null,
+                "description": "Seeking pediatric medical doctor with experience.\n\t\tNorthern New Jersey\n\t\tOutstanding benefits and salary.",
+                "location": "Secaucus, NJ",
+                "yearsexp": "1-5",
+                "skills": "organized, reliable, time-management, leadership, people-person"
+            },
+            {
+                "jobID": 5,
+                "title": "Real Estate Agent - Training Provided",
+                "salary": null,
+                "description": "New and Experienced Agents Welcome! Have you reached your potential in your career? Are you making the money you deserve? Do you have the tools, leadership, and supportive environment to help you succeed in this lucrative and exciting industry? If you answered “No” to any of these questions, Keller Williams Realty is your answer. At Keller Williams Realty, You Can: Make a six-figure, commission-based income, have a flexible schedule, find the best free training and support (no previous experience necessary), work full-time or part-time. In Order to Join Our Team, You Must: Have a desire to work independently and have control over your professional growth Have a strong work ethic and desire to be successful Have excellent communication skills and the ability to network to build your business. This is not a salaried position. Your income is entirely commission-based and provides unlimited potential. A state accredited real estate license is required before you can join our team. There’s a reason that we’ve passed every other real estate company, and we’re now the largest (and still fastest growing) real estate company in North America with over 175,000 associates. Keller Williams agents account for more sales and more sales volume than any other real estate company in the world. If you are interested in joining our team, click the Apply button and give us your information so we can follow up with you.",
+                "location": "Jersey City, NJ",
+                "yearsexp": "0",
+                "skills": "strong work ethic, reliable, motivated, communication, people-person, time-management, organized"
+            },
+            {
+                "jobID": 6,
+                "title": "Real Estate Agent",
+                "salary": "$70,000-$150,000/year",
+                "description": "We are the fastest growing real estate firm seeking razor-sharp, hard-working, self-motivated, million-dollar mindset Sales Associates. NO EXPERIENCE NECESSARY, we will teach you everything you need to know! Learn the real estate industry from the ground up! We will provide you with all the resources and tools you need to make an unlimited income! The playbook is already defined, so come in motivated and we will achieve your goals together.\n\nUnlike other firms, we dont just sit around getting rich off of your hard work and sweat. We recognize that team success is dependent on your success, we will guide you through every phase of your professional development.\n\nWe are excited to help you launch a career in real estate and help you take your budding career to another level. Your career success is totally dependent on how far you want to go, and how hard you are willing to work on your individual success\n\nIf you have a million-dollar mindset, send us your resume today!",
+                "location": "New York, NY",
+                "yearsexp": "0",
+                "skills": "communication, people-person, motivated, time-management"
+            }
